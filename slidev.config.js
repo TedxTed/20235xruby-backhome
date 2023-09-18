@@ -1,4 +1,5 @@
 export default {
+  title: "My Custom Title",
   theme: {
     extend: {
       typography: (theme) => ({

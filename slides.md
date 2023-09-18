@@ -200,6 +200,20 @@ image: /felix-mittermeier-WLGHjbC0Cq4-unsplash.jpg
  - 如果是這樣，那就不要只等準備好，不要太做自己
 
 ---
+layout: iframe-right
+url: https://www.104.com.tw/job/5bh59?jobsource=jolist_c_relevance
+---
+# 我們來預習...
+- 必須要求 -> 滿足兩項就投
+- 資力要求 -> 心理建設，但不管他要求幾年都可以投
+  - 他有可能找不到資深就會錄取你
+- 薪資
+  - 有上再說，太低再拒絕，就算太低，面試機會也是很難得的
+    - 了解趨勢...
+    - 減少與業界的資訊差
+- 對於博弈業
+  - 若有上，可以找龍哥了解這個產業
+---
 layout: two-cols-header
 ---
 
