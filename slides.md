@@ -1,6 +1,6 @@
 ---
 theme: seriph
-background: /pika_0918.jpg
+background: /DSCF7812.jpg 
 class: text-center
 highlighter: shiki
 lineNumbers: false
@@ -57,7 +57,7 @@ layout: two-cols
 <template v-slot:right>
 
   <div class="centered-image-container">
-    <img src="public/961075.jpg" alt="PIKA" class="enlarged-image">
+    <img src="/961075.jpg" alt="PIKA" class="enlarged-image">
   </div>
 
 </template>
@@ -156,7 +156,7 @@ obj.x();
 
 ---
 layout: image-right
-image: ./public/1018423.jpg
+image: /1018423.jpg
 ---
 
 # 你該怎麼做
