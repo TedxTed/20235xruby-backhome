@@ -1,0 +1,12 @@
+.centered-image-container {
+  display: flex;
+  align-items: center; /* 垂直置中 */
+  justify-content: center; /* 水平置中 */
+  height: 100%; /* 根據你的需要調整 */
+}
+
+
+.enlarged-image {
+  width: 100%; /* 放大至原始大小的 150% */
+  height: auto; /* 保持圖片的寬高比 */
+}
