@@ -42,14 +42,14 @@ layout: two-cols
 ## 轉職前經歷 
 - 會計系
 - 一名爆肝審計查帳員
-- 對程式有熱情但沒有架構的學著 / 可以自稱excel界小天才ＸＤ
 ## 轉職後
-- 進入恩沛科技即將任滿一年
-- 默默會分享兩次
-- 熱衷於參與社群活動
+- 曾任恩沛科技任滿一年 /ruby
+- 適才科技RD /typescript
+- 默默會分享 / ruby
+- Mordern Web Conference 講者 / golang
 
 ## 然後...
-- 依然每天學習著
+- 持續每週與同屆同學開設讀書會
 
 </v-clicks>
 
@@ -57,11 +57,19 @@ layout: two-cols
 <template v-slot:right>
 
   <div class="centered-image-container">
-    <img src="/961075.jpg" alt="PIKA" class="enlarged-image">
+    <img src="/S__2262026.jpg" alt="PIKA" class="enlarged-image">
   </div>
 
 </template>
 
+---
+
+# 努力不會得到回報，只有經驗才會
+
+- 只有經驗才會被寫入履歷
+- 工作/專案 都是經驗
+- 公開分享/支持社群 都是經驗
+- 做一萬個小事不如做一個大事
 
 ---
 layout:intro
