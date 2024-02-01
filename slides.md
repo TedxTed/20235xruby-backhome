@@ -44,12 +44,12 @@ layout: two-cols
 - 一名爆肝審計查帳員
 ## 轉職後
 - 曾任恩沛科技任滿一年 /ruby
-- 適才科技RD /typescript
+- 適才科技RD /typescript , react , nest.js
 - 默默會分享 / ruby
 - Mordern Web Conference 講者 / golang
 
 ## 然後...
-- 持續每週與同屆同學開設讀書會
+- 持續每週與同屆同學開設讀書會 rust/golang
 
 </v-clicks>
 
@@ -122,7 +122,7 @@ layout: two-cols
 # 但你可能還有很多不足
 
 這題`this`你看出來了嗎
-```js {all|1|2-8|9-10|all}
+```js 
 var name = '小明';
 var obj = {
     x: () => {
